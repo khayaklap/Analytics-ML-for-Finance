@@ -12,7 +12,7 @@ Libraries include Pandas for data manipulation, NumPy for linear algebra computa
 
 ## Data Sources
 
-Datasets are retrieved from multiple finance data providers with varying degrees of reliability, such as the Bloomberg Terminal, Yahoo Finance & Compustat. Some are selected for their speed and ease of extraction, others for their completeness. As the saying goes, garbage in, garbage out. Models' output are only as reliable as their input data. For your convenience, datasets in this repository have been cleaned and loaded as xlsx or csv files in each project's Data folder. Please note that each project's code has been written specifically to run on its corresponding data.
+Datasets are retrieved from multiple finance data providers with varying degrees of reliability, such as the Bloomberg Terminal, Yahoo Finance & Compustat. Some are selected for their speed and ease of extraction, others for their completeness. As the saying goes, garbage in, garbage out. Models' output are only as reliable as their training data. For your convenience, datasets in this repository have been cleaned and loaded as xlsx or csv files in each project's Data folder. Please note that each project's code has been written specifically to run on its corresponding data.
 
 ## Disclaimer
 
