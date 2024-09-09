@@ -13,3 +13,7 @@ Libraries include Pandas for data manipulation, NumPy for linear algebra computa
 ## Data Sources
 
 Datasets are retrieved from multiple finance data providers with varying degrees of reliability, such as the Bloomberg Terminal, Yahoo Finance & Compustat. Some are selected for their speed and ease of extraction, others for their completeness. As the saying goes, garbage in, garbage out. Models' output are only as reliable as their input data. For your convenience, datasets in this repository have been cleaned and loaded as xlsx or csv files in each project's Data folder. Please note that each project's code has been written specifically to run on its corresponding data.
+
+## Disclaimer
+
+Projects in this repository do not constitute investment advice in any shape or form. There is no guarantee that results achieved will be replicable in the future, especially during periods of market downturns. Machine learning models are not only prone to performance deterioration over time, but also achieve prediction accuracy at the expense of interpretability. They are particularly vulnerable to overfitting and data biases such as selection, reporting, and look-ahead biases. Therefore, you should do your own due diligence, tune your own models, make your own interpretations, and bear responsibility for your own risk & losses.
