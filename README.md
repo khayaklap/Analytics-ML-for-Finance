@@ -4,11 +4,11 @@ Hello, my name is Khai-Lap, and this is my GitHub repository. I am a 4th year un
 
 ## Objective
 
-This repository demonstrates applications of different subsets of machine learning in trading, portfolio optimization, and risk management, using Python. Beyond tuning hyperparameters and making predictions, we will dig into the maths behind the convergence process of each algorithm, as well as its strengths & weaknesses. This will allow us to apply relevant feature engineering techniques to feed clean data into our models and make reliable deductions. Methodologies covered include supervised learning, unsupervised learning, deep learning, and (deep) reinforcement learning.
+This repository demonstrates applications of different subsets of machine learning in trading, portfolio optimization, and risk management, using Python. Beyond tuning hyperparameters and making predictions, we will dig into the maths behind the convergence process of each algorithm, as well as its strengths & weaknesses. This will allow us to apply relevant feature engineering techniques to feed clean data into our models and make reliable deductions. Methodologies covered include supervised learning, unsupervised learning, deep learning, and reinforcement learning.
 
 ## Necessary Libraries
 
-Libraries include Pandas for data manipulation, NumPy for linear algebra computations, Scipy for statistical testing, CVXPY for optimization, Statsmodels for time series analysis, Scikit-Learn for preprocessing & machine learning, PyTorch for deep learning, SpaCy & NLTK for natural language processing, and Matplotlib & Seaborn for visualization. For larger datasets exceeding 1 million rows, PySpark is preferred over Pandas. Although advanced knowledge of each library is not required, it is recommended that you go over the documentation and know key methods & attributes.
+Libraries include Pandas for data manipulation, NumPy for linear algebra computations, Scipy for statistical tests, CVXPY for optimization, Statsmodels for time series analysis, Scikit-Learn for preprocessing & machine learning, PyTorch for deep learning, SpaCy & NLTK for natural language processing, and Matplotlib & Seaborn for visualization. For larger datasets exceeding 1 million rows, PySpark is preferred over Pandas. Although advanced knowledge of each library is not required, it is recommended that you go over the documentation and know key methods & attributes.
 
 ## Data Sources
 
