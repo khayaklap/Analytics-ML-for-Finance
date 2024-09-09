@@ -4,7 +4,7 @@ Hello, my name is Khai-Lap. I am a 4th year undergraduate student majoring in fi
 
 ## Objective
 
-This repository demonstrates applications of different subsets of machine learning in trading, portfolio optimization, and risk management, using Python. Beyond tuning hyperparameters and making predictions, we will dig into the maths behind the convergence process of each algorithm, as well as its strengths & weaknesses. This will allow us to apply relevant feature engineering techniques to input clean data and make reliable deductions. Methodologies covered are supervised learning, unsupervised learning, deep learning, and reinforcement learning.
+This repository demonstrates applications of different subsets of machine learning in trading, portfolio optimization, and risk management, using Python. Beyond tuning hyperparameters and making predictions, we will dig into the maths behind the convergence process of each algorithm, as well as its strengths & weaknesses. This will allow us to apply relevant feature engineering techniques to input clean data into our models and make reliable deductions. Methodologies covered are supervised learning, unsupervised learning, deep learning, and reinforcement learning.
 
 ## Necessary Libraries
 
@@ -16,7 +16,7 @@ Datasets are retrieved from multiple finance data providers with varying degrees
 
 ## Disclaimer
 
-Projects in this repository do not constitute investment advice in any shape or form. There is no guarantee that results achieved will be replicable in the future, especially during periods of market downturns. Machine learning models are not only prone to performance deterioration over time, but also achieve prediction accuracy at the expense of interpretability. They are particularly vulnerable to overfitting and data biases. Therefore, you should do your own due diligence, make your own interpretations, and bear responsibility for your own risk.
+Projects in this repository do not constitute investment advice in any shape or form. There is no guarantee that results achieved will be replicable in the future, especially during periods of market downturns. Machine learning models are not only prone to performance deterioration over time, but also achieve prediction accuracy at the expense of interpretability. They are particularly vulnerable to overfitting and data biases. Therefore, you should do your own due diligence, make your own interpretations, and bear responsibility for your own risk & losses.
 
 ## Contact Info
 
