@@ -20,4 +20,4 @@ Projects in this repository do not constitute investment advice in any shape or 
 
 ## Contact Info
 
-You can reach me via email at khai.vuong@mail.mcgill.ca. Alternatively, you can send a LinkedIn connection request to [Khai Lap Vuong](https://www.linkedin.com/in/khai-lap-vuong/). Cheers =)).
+You can reach me via email at khai.vuong@mail.mcgill.ca. Alternatively, you can send a LinkedIn request to [Khai Lap Vuong](https://www.linkedin.com/in/khai-lap-vuong/). Cheers =)).
