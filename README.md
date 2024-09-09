@@ -8,7 +8,7 @@ This repository demonstrates applications of different subsets of machine learni
 
 ## Necessary Libraries
 
-Libraries include Pandas for data manipulation, NumPy for linear algebra computations, Scipy for statistical tests, CVXPY for optimization, Statsmodels for time series analysis, Scikit-Learn for preprocessing & machine learning, PyTorch for deep learning, SpaCy & NLTK for natural language processing, and Matplotlib & Seaborn for visualization. For larger datasets exceeding 1 million rows, PySpark is preferred over Pandas. Although advanced knowledge of each library is not required, it is recommended that you go over the documentation and know key methods & attributes.
+Libraries include Pandas for data manipulation, NumPy for linear algebra computations, Scipy for statistical tests, CVXPY for optimization, Statsmodels for time series analysis, Scikit-Learn for preprocessing & machine learning, PyTorch for deep learning, SpaCy & NLTK for natural language processing, and Matplotlib & Seaborn for visualization. For larger datasets, PySpark is preferred over Pandas. Although advanced knowledge of each library is not required, it is recommended that you go over the documentation and know key methods & attributes.
 
 ## Data Sources
 
