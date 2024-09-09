@@ -4,7 +4,7 @@ Hello, my name is Khai-Lap, and this is my GitHub repository. I am a 4th year un
 
 ## Objective
 
-This repository demonstrates applications of different subsets of machine learning in trading, portfolio optimization, and risk management, using Python. Beyond tuning hyperparameters and making predictions, we will dig into the maths behind the convergence process of each algorithm, as well as its strengths & weaknesses. This will allow us to apply relevant feature engineering techniques to input clean data and make reliable deductions. Methodologies covered include supervised learning, unsupervised learning, deep learning, and reinforcement learning.
+This repository demonstrates applications of different subsets of machine learning in trading, portfolio optimization, and risk management, using Python. Beyond tuning hyperparameters and making predictions, we will dig into the maths behind the convergence process of each algorithm, as well as its strengths & weaknesses. This will allow us to apply relevant feature engineering techniques to input clean data and make reliable deductions. Methodologies covered are supervised learning, unsupervised learning, deep learning, and reinforcement learning.
 
 ## Necessary Libraries
 
