@@ -16,7 +16,7 @@ Datasets are retrieved from multiple finance data providers with varying degrees
 
 ## Disclaimer
 
-Projects in this repository do not constitute investment advice in any shape or form. There is no guarantee that results achieved will be replicable in the future, especially during periods of market downturns. Machine learning models are not only prone to performance deterioration over time, but also achieve prediction accuracy at the expense of interpretability. They are particularly vulnerable to overfitting and data biases. Therefore, you should do your own due diligence, make your own interpretations, and bear responsibility for your own risk & losses.
+Projects in this repository do not constitute investment advice in any shape or form. There is no guarantee that results achieved will be replicable in the future, especially during periods of market downturns. Machine learning models are not only prone to performance deterioration over time, but also achieve prediction accuracy at the expense of interpretability (Black Box). They are particularly vulnerable to overfitting and data biases. Therefore, you should do your own due diligence, make your own interpretations, and bear responsibility for your own risk & losses.
 
 ## Contact Info
 
