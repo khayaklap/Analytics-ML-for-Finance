@@ -16,7 +16,7 @@ Datasets are retrieved from multiple finance data providers with varying degrees
 
 ## Inspiration
 
-Ideas for the above projects derive mainly from readings on empirical use cases of machine learning in finance. I am in no shape or form plagiarizing, and always give credit to the authors. Rather than copy their code, I think of ways to enhance their work by identifying shortcomings in their code and explanations. This means using different datasets, naming the variables with context relevant terms, diversifying visualizations, adding markdown cells and doc strings, and structuring the flow of the project with a process-based approach.  
+Ideas for the above projects derive mainly from readings on empirical use cases of machine learning in finance. I am in no shape or form plagiarizing, and always give credit to the authors. Rather than copy their code, I think of ways to enhance their work by identifying shortcomings in their code and explanations. This means using my own datasets, naming the variables with context relevant terms, optimizing the running time, diversifying visualizations, adding markdown cells and doc strings, and structuring the flow of the project according to a process-based approach.  
 
 ## Disclaimer
 
